@@ -1,0 +1,42 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Pablo de Juan Fidalgo"
+theme="archie"
+copyright = "© Pablo de Juan Fidalgo"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	#subtitle = ""
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/pabdj"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/pabdjf"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://es.linkedin.com/in/pablodejuanfidalgo"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
