@@ -149,6 +149,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 2em;
 }
 
+h1::before { color: var(--maincolor); content: '# '; }
+h2::before { color: var(--maincolor); content: '## '; }
+h3::before { color: var(--maincolor); content: '### '; }
+h4::before { color: var(--maincolor); content: '#### '; }
+h5::before { color: var(--maincolor); content: '##### '; }
+h6::before { color: var(--maincolor); content: '###### '; }
+
 .meta {
   color: #999;
   letter-spacing: -0.5px;
