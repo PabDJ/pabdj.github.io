@@ -42,30 +42,6 @@ h5,
 h6 {
   color: #ddd;
 }
-h1::before {
-  color: var(--darkMaincolor);
-  content: "# ";
-}
-h2::before {
-  color: var(--darkMaincolor);
-  content: "## ";
-}
-h3::before {
-  color: var(--darkMaincolor);
-  content: "### ";
-}
-h4::before {
-  color: var(--darkMaincolor);
-  content: "#### ";
-}
-h5::before {
-  color: var(--darkMaincolor);
-  content: "##### ";
-}
-h6::before {
-  color: var(--darkMaincolor);
-  content: "###### ";
-}
 
 a {
   border-bottom: 3px solid var(--darkMaincolor);
