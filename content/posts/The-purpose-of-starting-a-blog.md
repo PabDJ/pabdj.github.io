@@ -1,6 +1,6 @@
 ---
 title: "The purpose of starting a blog"
-date: 2022-11-08T20:50
+date: 2022-11-08T20:50:58+05:30
 description: ""
 tags: []
 ---
