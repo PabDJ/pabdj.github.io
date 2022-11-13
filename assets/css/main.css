@@ -1,10 +1,10 @@
 /* Markdown */
 :root{
 --maincolor: blue;
---bordercl:rebeccapurple;
+--bordercl:blue;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
---darkMaincolor: #50fa7b;
+--darkMaincolor: #149414;
 }
 html {
   color: #232333;
@@ -160,7 +160,7 @@ footer {
   align-items: center;
   border-top: 0.4rem dotted var(--bordercl);
   padding: 2rem 0rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 .soc {
   display: flex;
