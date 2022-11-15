@@ -59,7 +59,7 @@ If you have something cool, and you do not find it here, do not hesitate to cont
 - Intelligence-Driven Incident Response
 - Rise of the Machines
 - Active Measures
-- Sandworm: A New Era of Cyberwar... 
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
 - The Hacker and the State
 - To Catch a Spy
 - Chinese Communist Espionage
