@@ -11,6 +11,8 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
+Last edit: Nov 16, 2022
+
 # Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -40,6 +42,7 @@ If you have something cool, and you do not find it here, do not hesitate to cont
 - [Radare2 Tutorial series of videos from BinaryAdventure](https://www.youtube.com/watch?v=oW8Ey5STrPI&list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ)
 - [Malware Analysis - Unpack and Decompile PyInstaller Malware](https://www.youtube.com/watch?v=x8OtmBoCyw4)
 - [Malware Analysis Bootcamp by HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
+- [Practical Malware Analysis Essentials for Incident Responders - RSA Conference](https://www.youtube.com/watch?v=20xYpxe8mBg)
 - [Introduction to Reverse Engineering](https://www.youtube.com/playlist?list=PLHJns8WZXCdvaD7-xR7e5FJNW_6H9w-wC)
 - [Guide To Pentesting by DemmSec](https://www.youtube.com/playlist?list=PLbjcIaeZ3pVPbZVmNebx-Hr0rSTyHN_0b)
 - [SPANISH: Introduction to Hacking & Pentesting](https://www.youtube.com/playlist?list=PLXm1FM6zsxpBxKtPzT-pQVKoUFXZkuqkh)
