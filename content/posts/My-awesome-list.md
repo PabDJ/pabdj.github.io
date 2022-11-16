@@ -12,8 +12,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
 Last edit: Nov 16, 2022
-
-# Blog posts
+## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
 - [A Cyber Threat Intelligence Self-Study Plan: Part 1](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
@@ -24,7 +23,7 @@ Last edit: Nov 16, 2022
 - [Exploit Reversing: A blog about malware analysis, reverse engineering, programming and Windows internals.](https://exploitreversing.com/) The link redirects to the home page but once you land there you will find a fantastic series of articles related to malware analysis.
 - [List of blogs for you to include in your RSS feed](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
 
-# Tweets
+## Tweets
 - [Ghidra Tips For Beginner/Intermediate analysts interested in RE](https://twitter.com/embee_research/status/1582274165280690176?s=20&t=RBjFdZot3gMfUg7ehPWiWQ)
 - [De-obfuscation tip](https://twitter.com/0xBurgers/status/1586930958930153474?s=20&t=b-FdDc96lkC_GOICplMYag)
 - [De-obfuscation tip 2](https://twitter.com/buzz3r_/status/1588364176438677504?s=20&t=gYAn1_RJMkqxM_kP_ODYQQ)
@@ -38,7 +37,7 @@ Last edit: Nov 16, 2022
 - [Bugbounty tips for beginners](https://twitter.com/MAALP1225/status/1416304121871667204?s=20&t=FAP6QZ_niHaU5rgF9PG2qg)
 - [Volatility Plugins MindMap](https://twitter.com/r3nzsec/status/1341468076144025600?s=20&t=FAP6QZ_niHaU5rgF9PG2qg)
 
-# YouTube videos
+## YouTube videos
 - [Radare2 Tutorial series of videos from BinaryAdventure](https://www.youtube.com/watch?v=oW8Ey5STrPI&list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ)
 - [Malware Analysis - Unpack and Decompile PyInstaller Malware](https://www.youtube.com/watch?v=x8OtmBoCyw4)
 - [Malware Analysis Bootcamp by HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
@@ -48,13 +47,13 @@ Last edit: Nov 16, 2022
 - [SPANISH: Introduction to Hacking & Pentesting](https://www.youtube.com/playlist?list=PLXm1FM6zsxpBxKtPzT-pQVKoUFXZkuqkh)
 - [Pentesting for n00bs](https://www.youtube.com/playlist?list=PLLKT__MCUeiyxF54dBIkzEXT7h8NgqQUB)
 
-# Tools
+## Tools
 - [upx-recovery-tool](https://github.com/NozomiNetworks/upx-recovery-tool)
 - [GitHub Dork](https://gist.githubusercontent.com/EdOverflow/8bd2faad513626c413b8fc6e9d955669/raw/06a0ef0fd83920d513c65767aae258ecf8382bdf/gistfile1.txt?utm_content=bufferaea7d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Malduck](https://github.com/CERT-Polska/malduck)
 - [Successful YARA Rules with the lowest AV detection rates](https://valhalla.nextron-systems.com/)
 
-# Books
+## Books
 - The Art of Cyberwarfare
 - Malware Data Science: Attack Detection and Attribution
 - Mastering Malware Analysis
