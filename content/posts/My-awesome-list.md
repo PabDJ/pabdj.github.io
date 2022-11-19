@@ -11,7 +11,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
-Last edit: Nov 16, 2022
+Last edit: Nov 19, 2022
 ## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -21,6 +21,15 @@ Last edit: Nov 16, 2022
 - [Malware Matryoshka](https://github.com/dodo-sec/Malware-Analysis/blob/main/Formbook/Formbook-maldoc.md)
 - [MITRE ATT&CK™ Analysis](https://www.jaiminton.com/mitreatt&ck#)
 - [Exploit Reversing: A blog about malware analysis, reverse engineering, programming and Windows internals.](https://exploitreversing.com/) The link redirects to the home page but once you land there you will find a fantastic series of articles related to malware analysis.
+- [Fundamentals of reverse engineering](https://malwareunicorn.org/workshops/re101.html#0)
+- [Introduction to Malware Analysis and Reverse Engineering - University of Cincinnati](https://class.malware.re/)
+- [Reverse Engineering for Beginners](https://beginners.re/)
+- [A curated list of awesome reversing resources ](https://github.com/tylerha97/awesome-reversing)
+- [So You Want To Be A Malware Analyst](https://www.malwarebytes.com/blog/news/2012/09/so-you-want-to-be-a-malware-analyst)
+- [Practical Malware Analysis Course](https://samsclass.info/126/126_S17.shtml)
+- [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
+- [New Obfuscation Techniques in Emotet Maldocs](https://security-soup.net/new-obfuscation-techniques-in-emotet-maldocs/)
+- [Emotet Technical Analysis - Part 1 Reveal the Evil Code](https://www.picussecurity.com/resource/blog/emotet-technical-analysis-part-1-reveal-the-evil-code)
 - [List of blogs for you to include in your RSS feed](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
 
 ## Tweets
@@ -42,6 +51,10 @@ Last edit: Nov 16, 2022
 - [Malware Analysis - Unpack and Decompile PyInstaller Malware](https://www.youtube.com/watch?v=x8OtmBoCyw4)
 - [Malware Analysis Bootcamp by HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - [Practical Malware Analysis Essentials for Incident Responders - RSA Conference](https://www.youtube.com/watch?v=20xYpxe8mBg)
+- [Introduction to Malware Analysis - SANS Institute](https://www.youtube.com/watch?v=f-fMdnUW4X4)
+- [Five Awesome Tools to perform Behavioural Analysis of Malware](https://www.youtube.com/watch?v=noErOEHcAj8)
+- [HITB2018AMS CommSec D1 - A Deep Dive Into Malicious Documents - Josh Stroschein](https://www.youtube.com/watch?v=Ii0ENuigBSM)
+- [MalwareAnalysisForHedgehogs](https://www.youtube.com/@MalwareAnalysisForHedgehogs)
 - [Introduction to Reverse Engineering](https://www.youtube.com/playlist?list=PLHJns8WZXCdvaD7-xR7e5FJNW_6H9w-wC)
 - [Guide To Pentesting by DemmSec](https://www.youtube.com/playlist?list=PLbjcIaeZ3pVPbZVmNebx-Hr0rSTyHN_0b)
 - [SPANISH: Introduction to Hacking & Pentesting](https://www.youtube.com/playlist?list=PLXm1FM6zsxpBxKtPzT-pQVKoUFXZkuqkh)
