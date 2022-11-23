@@ -23,6 +23,8 @@ Last edit: Nov 19, 2022
 - [Exploit Reversing: A blog about malware analysis, reverse engineering, programming and Windows internals.](https://exploitreversing.com/) The link redirects to the home page but once you land there you will find a fantastic series of articles related to malware analysis.
 - [Fundamentals of reverse engineering](https://malwareunicorn.org/workshops/re101.html#0)
 - [Introduction to Malware Analysis and Reverse Engineering - University of Cincinnati](https://class.malware.re/)
+- [Cheat Sheet for Analyzing Malicious Software](https://zeltser.com/malware-analysis-cheat-sheet/)
+- [Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 - [Reverse Engineering for Beginners](https://beginners.re/)
 - [A curated list of awesome reversing resources ](https://github.com/tylerha97/awesome-reversing)
 - [So You Want To Be A Malware Analyst](https://www.malwarebytes.com/blog/news/2012/09/so-you-want-to-be-a-malware-analyst)
@@ -51,6 +53,7 @@ Last edit: Nov 19, 2022
 - [Malware Analysis - Unpack and Decompile PyInstaller Malware](https://www.youtube.com/watch?v=x8OtmBoCyw4)
 - [Malware Analysis Bootcamp by HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - [Practical Malware Analysis Essentials for Incident Responders - RSA Conference](https://www.youtube.com/watch?v=20xYpxe8mBg)
+- [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 - [Introduction to Malware Analysis - SANS Institute](https://www.youtube.com/watch?v=f-fMdnUW4X4)
 - [Five Awesome Tools to perform Behavioural Analysis of Malware](https://www.youtube.com/watch?v=noErOEHcAj8)
 - [HITB2018AMS CommSec D1 - A Deep Dive Into Malicious Documents - Josh Stroschein](https://www.youtube.com/watch?v=Ii0ENuigBSM)
@@ -65,6 +68,7 @@ Last edit: Nov 19, 2022
 - [GitHub Dork](https://gist.githubusercontent.com/EdOverflow/8bd2faad513626c413b8fc6e9d955669/raw/06a0ef0fd83920d513c65767aae258ecf8382bdf/gistfile1.txt?utm_content=bufferaea7d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Malduck](https://github.com/CERT-Polska/malduck)
 - [Successful YARA Rules with the lowest AV detection rates](https://valhalla.nextron-systems.com/)
+- [Pafish: anti-analysis testing tool](https://github.com/a0rtega/pafish)
 
 ## Books
 - The Art of Cyberwarfare
