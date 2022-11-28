@@ -11,7 +11,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
-Last edit: Nov 19, 2022
+Last edit: Nov 28, 2022
 ## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -23,6 +23,9 @@ Last edit: Nov 19, 2022
 - [Exploit Reversing: A blog about malware analysis, reverse engineering, programming and Windows internals.](https://exploitreversing.com/) The link redirects to the home page but once you land there you will find a fantastic series of articles related to malware analysis.
 - [Fundamentals of reverse engineering](https://malwareunicorn.org/workshops/re101.html#0)
 - [Introduction to Malware Analysis and Reverse Engineering - University of Cincinnati](https://class.malware.re/)
+- [Malware Dynamic Analysis - Open Security Training](https://opensecuritytraining.info/MalwareDynamicAnalysis.html)
+- [Introduction To Reverse Engineering Software - Open Security Training](https://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+- [Reverse Engineering Malware - Open Security Training](https://opensecuritytraining.info/ReverseEngineeringMalware.html)
 - [Cheat Sheet for Analyzing Malicious Software](https://zeltser.com/malware-analysis-cheat-sheet/)
 - [Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 - [Reverse Engineering for Beginners](https://beginners.re/)
@@ -32,6 +35,11 @@ Last edit: Nov 19, 2022
 - [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
 - [New Obfuscation Techniques in Emotet Maldocs](https://security-soup.net/new-obfuscation-techniques-in-emotet-maldocs/)
 - [Emotet Technical Analysis - Part 1 Reveal the Evil Code](https://www.picussecurity.com/resource/blog/emotet-technical-analysis-part-1-reveal-the-evil-code)
+- [Improving My Ghidra GUI + Ghidra Skills](https://irfan-eternal.github.io/improving-my-ghidra-gui--ghidra-skills/)
+- [Code Analysis With Ghidra: An Introduction](https://blogs.blackberry.com/en/2019/07/an-introduction-to-code-analysis-with-ghidra)
+- [Ghidra script to handle stack strings](https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/)
+- [Virtual Machines Detection Enhanced](https://artemonsecurity.com/vmde.pdf)
+- [Setting up Cuckoo Sandbox Step by Step Guide](https://medium.com/@oshara.16/setting-up-cuckoo-sandbox-for-dummies-malware-analysis-3daa99e950b5)
 - [List of blogs for you to include in your RSS feed](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
 
 ## Tweets
@@ -39,6 +47,7 @@ Last edit: Nov 19, 2022
 - [De-obfuscation tip](https://twitter.com/0xBurgers/status/1586930958930153474?s=20&t=b-FdDc96lkC_GOICplMYag)
 - [De-obfuscation tip 2](https://twitter.com/buzz3r_/status/1588364176438677504?s=20&t=gYAn1_RJMkqxM_kP_ODYQQ)
 - [How to set IDA Pro + WinDbg](https://twitter.com/ale_sp_brazil/status/1579921468221427712?s=20&t=dsb9_ZM8uPZtn0xQ_2LIuQ)
+- [Seven IDAPro plugins our malware reverse engineers appreciate and use on a daily basis](https://twitter.com/SentinelOne/status/1597199229851926529?s=20&t=EMjjYCu_U4Io_IY1HttH5w)
 - [Want to learn about Active Directory security? Start with these blogs](https://twitter.com/drunkrhin0/status/1564757368168099840?s=20&t=5n3KNELz2nIKpCNkZGHtqA)
 - [Tips for hunting infosec jobs](https://twitter.com/GrahamHelton3/status/1534897826110513153?s=20&t=xDhmNwJM7eUt6EdNIRkjhQ)
 - [CTI tips](https://twitter.com/klrgrz/status/1288123451597758467?s=20&t=FAP6QZ_niHaU5rgF9PG2qg)
@@ -55,10 +64,17 @@ Last edit: Nov 19, 2022
 - [Practical Malware Analysis Essentials for Incident Responders - RSA Conference](https://www.youtube.com/watch?v=20xYpxe8mBg)
 - [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 - [Introduction to Malware Analysis - SANS Institute](https://www.youtube.com/watch?v=f-fMdnUW4X4)
+- [Evasion Tactics in Malware from the Inside Out](https://www.youtube.com/watch?v=gZrU2X1Q5OA)
 - [Five Awesome Tools to perform Behavioural Analysis of Malware](https://www.youtube.com/watch?v=noErOEHcAj8)
 - [HITB2018AMS CommSec D1 - A Deep Dive Into Malicious Documents - Josh Stroschein](https://www.youtube.com/watch?v=Ii0ENuigBSM)
+- [Analyzing Malicious Office Documents Presented By Didier Stevens Workshop](https://www.youtube.com/watch?v=opdVFQEBCNU)
+- [Shortcuts for Understanding Malicious Scripts](https://www.youtube.com/watch?v=XxjeRuwRyOw)
+- [Finding and Decoding Malicious Powershell Scripts - SANS DFIR Summit 2018](https://www.youtube.com/watch?v=JWC7fzhvAY8)
 - [MalwareAnalysisForHedgehogs](https://www.youtube.com/@MalwareAnalysisForHedgehogs)
 - [Introduction to Reverse Engineering](https://www.youtube.com/playlist?list=PLHJns8WZXCdvaD7-xR7e5FJNW_6H9w-wC)
+- [Hack the Reader: Writing Effective Threat Reports](https://www.youtube.com/watch?v=vwKlNZ6mxak)
+- [Top 10 Writing Mistakes in Cybersecurity and How You Can Avoid Them](https://www.youtube.com/watch?v=V7lO7UgxQV4)
+- [Threat Intelligence and the Limits of Malware Analysis](https://www.youtube.com/watch?v=KJIqgQKoHYg)
 - [Guide To Pentesting by DemmSec](https://www.youtube.com/playlist?list=PLbjcIaeZ3pVPbZVmNebx-Hr0rSTyHN_0b)
 - [SPANISH: Introduction to Hacking & Pentesting](https://www.youtube.com/playlist?list=PLXm1FM6zsxpBxKtPzT-pQVKoUFXZkuqkh)
 - [Pentesting for n00bs](https://www.youtube.com/playlist?list=PLLKT__MCUeiyxF54dBIkzEXT7h8NgqQUB)
@@ -69,6 +85,7 @@ Last edit: Nov 19, 2022
 - [Malduck](https://github.com/CERT-Polska/malduck)
 - [Successful YARA Rules with the lowest AV detection rates](https://valhalla.nextron-systems.com/)
 - [Pafish: anti-analysis testing tool](https://github.com/a0rtega/pafish)
+- [Rating Sheet for the Right Information: Threat Reports](https://zeltser.com/media/docs/rating-sheet-threat-reports-info.pdf)
 
 ## Books
 - The Art of Cyberwarfare
