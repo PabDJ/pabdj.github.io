@@ -17,6 +17,6 @@ reporting the notes that I take while learning meanwhile I track the progress li
 
 
 ## Projects
-- Generation and classification of illicit Bitcoin transactions - Published conference paper
+- [Generation and Classification of Illicit Bitcoin Transactions](https://doi.org/10.1007/978-3-031-21333-5_108) - Published conference paper
 at [UCAmI 2022](https://www.ucami.org/)
 - [Hardware Security Module (HSM) BLS Signer](https://github.com/decentralizedsecurity/bls-hsm) - Funded by Eth2 Staking Community Grants from Ethereum Foundation
