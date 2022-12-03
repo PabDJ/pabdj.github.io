@@ -11,7 +11,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
-Last edit: Nov 28, 2022
+Last edit: Dec 3, 2022
 ## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -39,7 +39,8 @@ Last edit: Nov 28, 2022
 - [Code Analysis With Ghidra: An Introduction](https://blogs.blackberry.com/en/2019/07/an-introduction-to-code-analysis-with-ghidra)
 - [Ghidra script to handle stack strings](https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/)
 - [Virtual Machines Detection Enhanced](https://artemonsecurity.com/vmde.pdf)
-- [Setting up Cuckoo Sandbox Step by Step Guide](https://medium.com/@oshara.16/setting-up-cuckoo-sandbox-for-dummies-malware-analysis-3daa99e950b5)
+- [Setting up Cuckoo Sandbox Step-by-Step Guide](https://medium.com/@oshara.16/setting-up-cuckoo-sandbox-for-dummies-malware-analysis-3daa99e950b5)
+- [Malicious Packer pkr_ce1a](https://malwarology.substack.com/p/malicious-packer-pkr_ce1a?r=1lslzd)
 - [List of blogs for you to include in your RSS feed](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
 
 ## Tweets
@@ -61,6 +62,7 @@ Last edit: Nov 28, 2022
 - [Radare2 Tutorial series of videos from BinaryAdventure](https://www.youtube.com/watch?v=oW8Ey5STrPI&list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ)
 - [Malware Analysis - Unpack and Decompile PyInstaller Malware](https://www.youtube.com/watch?v=x8OtmBoCyw4)
 - [Malware Analysis Bootcamp by HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
+- [Ghidra Setup Tips](https://www.youtube.com/watch?v=5wBfw1-lINQ)
 - [Practical Malware Analysis Essentials for Incident Responders - RSA Conference](https://www.youtube.com/watch?v=20xYpxe8mBg)
 - [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 - [Introduction to Malware Analysis - SANS Institute](https://www.youtube.com/watch?v=f-fMdnUW4X4)
@@ -86,6 +88,8 @@ Last edit: Nov 28, 2022
 - [Successful YARA Rules with the lowest AV detection rates](https://valhalla.nextron-systems.com/)
 - [Pafish: anti-analysis testing tool](https://github.com/a0rtega/pafish)
 - [Rating Sheet for the Right Information: Threat Reports](https://zeltser.com/media/docs/rating-sheet-threat-reports-info.pdf)
+- [gdbghidra - a visual bridge between a GDB session and GHIDRA](https://github.com/Comsecuris/gdbghidra)
+- [RE tools](https://github.com/alexey-kleymenov/reverse_engineering_tools)
 
 ## Books
 - The Art of Cyberwarfare
