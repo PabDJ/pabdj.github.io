@@ -11,7 +11,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
-Last edit: Dec 3, 2022
+Last edit: Dec 5, 2022
 ## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -35,6 +35,8 @@ Last edit: Dec 3, 2022
 - [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
 - [New Obfuscation Techniques in Emotet Maldocs](https://security-soup.net/new-obfuscation-techniques-in-emotet-maldocs/)
 - [Emotet Technical Analysis - Part 1 Reveal the Evil Code](https://www.picussecurity.com/resource/blog/emotet-technical-analysis-part-1-reveal-the-evil-code)
+- [Introduction to Reverse Engineering with Ghidra: A Four Session Course](https://wrongbaud.github.io/posts/ghidra-training/)
+- [What're you telling me, Ghidra?: An introduction to Ghidra's primary components](https://byte.how/posts/what-are-you-telling-me-ghidra/)
 - [Improving My Ghidra GUI + Ghidra Skills](https://irfan-eternal.github.io/improving-my-ghidra-gui--ghidra-skills/)
 - [Code Analysis With Ghidra: An Introduction](https://blogs.blackberry.com/en/2019/07/an-introduction-to-code-analysis-with-ghidra)
 - [Ghidra script to handle stack strings](https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/)
@@ -63,6 +65,7 @@ Last edit: Dec 3, 2022
 - [Malware Analysis - Unpack and Decompile PyInstaller Malware](https://www.youtube.com/watch?v=x8OtmBoCyw4)
 - [Malware Analysis Bootcamp by HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - [Ghidra Setup Tips](https://www.youtube.com/watch?v=5wBfw1-lINQ)
+- [Getting Started With Ghidra For Malware Analysis](https://www.youtube.com/watch?v=dW8YFRX2BGk)
 - [Practical Malware Analysis Essentials for Incident Responders - RSA Conference](https://www.youtube.com/watch?v=20xYpxe8mBg)
 - [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 - [Introduction to Malware Analysis - SANS Institute](https://www.youtube.com/watch?v=f-fMdnUW4X4)
@@ -89,6 +92,8 @@ Last edit: Dec 3, 2022
 - [Pafish: anti-analysis testing tool](https://github.com/a0rtega/pafish)
 - [Rating Sheet for the Right Information: Threat Reports](https://zeltser.com/media/docs/rating-sheet-threat-reports-info.pdf)
 - [gdbghidra - a visual bridge between a GDB session and GHIDRA](https://github.com/Comsecuris/gdbghidra)
+- [PolarProxy: a transparent SSL/TLS proxy created for incident responders and malware researchers](https://www.netresec.com/?page=PolarProxy)
+- [oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents](https://github.com/decalage2/oletools)
 - [RE tools](https://github.com/alexey-kleymenov/reverse_engineering_tools)
 
 ## Books
