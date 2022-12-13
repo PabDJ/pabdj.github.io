@@ -11,7 +11,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
-Last edit: Dec 6, 2022
+Last edit: Dec 13, 2022
 ## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -35,6 +35,7 @@ Last edit: Dec 6, 2022
 - [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
 - [New Obfuscation Techniques in Emotet Maldocs](https://security-soup.net/new-obfuscation-techniques-in-emotet-maldocs/)
 - [Emotet Technical Analysis - Part 1 Reveal the Evil Code](https://www.picussecurity.com/resource/blog/emotet-technical-analysis-part-1-reveal-the-evil-code)
+- [How to train your Ghidra](https://securelist.com/how-to-train-your-ghidra/108272/)
 - [Introduction to Reverse Engineering with Ghidra: A Four Session Course](https://wrongbaud.github.io/posts/ghidra-training/)
 - [What're you telling me, Ghidra?: An introduction to Ghidra's primary components](https://byte.how/posts/what-are-you-telling-me-ghidra/)
 - [Improving My Ghidra GUI + Ghidra Skills](https://irfan-eternal.github.io/improving-my-ghidra-gui--ghidra-skills/)

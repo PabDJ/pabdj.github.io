@@ -115,4 +115,4 @@ If we take a look at the strings, we can see some malicious programs such as _wi
 
 After taking a look again at the imports we can see that there are some suspicious calls such as *FindResourceA*, *LoadResource* and *SizeofResource*.
 
-I have learnt that with ResourceHacker we can convert the binary data to another .exe file and then perform another analysis to that sample. As it is stated in the solutions, the original file brings another sample attached, which is the one that downloads more malware from the URLs that we found before (it contains *suspicious* imports like *URLDownloadToFile*.
+I have learnt that with ResourceHacker we can convert the binary data to another .exe file and then perform another analysis to that sample. As it is stated in the solutions, the original file brings another sample attached, which is the one that downloads more malware from the URLs that we found before (it contains *suspicious* imports like *URLDownloadToFile*).
