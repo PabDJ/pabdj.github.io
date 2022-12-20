@@ -11,7 +11,7 @@ The goal of this post, that will be continuing evolving, is to organise those re
 
 If you have something cool, and you do not find it here, do not hesitate to contact me via Twitter [@pabdjf](https://twitter.com/pabdjf) and I will include it.
 
-Last edit: Dec 19, 2022
+Last edit: Dec 20, 2022
 ## Blog posts
 - [CTI Resources](https://paralus.co/resources-2/resources/): This one has more pointers inside it, be aware of falling in a rabbit hole ;)
 - [FAQs on Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e)
@@ -92,6 +92,8 @@ Last edit: Dec 19, 2022
 - [GitHub Dork](https://gist.githubusercontent.com/EdOverflow/8bd2faad513626c413b8fc6e9d955669/raw/06a0ef0fd83920d513c65767aae258ecf8382bdf/gistfile1.txt?utm_content=bufferaea7d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Malduck](https://github.com/CERT-Polska/malduck)
 - [capa: The FLARE team's open-source tool to identify capabilities in executable files](https://github.com/mandiant/capa)
+- [Ghidrathon: The FLARE team's open-source extension to add Python 3 scripting to Ghidra](https://github.com/mandiant/Ghidrathon)
+- [CERT Kaiju Binary Analysis Framework for GHIDRA](https://github.com/certcc/kaiju)
 - [Successful YARA Rules with the lowest AV detection rates](https://valhalla.nextron-systems.com/)
 - [Pafish: anti-analysis testing tool](https://github.com/a0rtega/pafish)
 - [Rating Sheet for the Right Information: Threat Reports](https://zeltser.com/media/docs/rating-sheet-threat-reports-info.pdf)
