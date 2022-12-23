@@ -1,7 +1,7 @@
 ## Who am I?
 I am Pablo de Juan and I consider myself a passionate person who likes being involved in bleeding-edge technology.
 
-I am currently working at [Atos](https://atos.net/en/) as a Cybersecurity Research Engineer.
+I am currently working at [Atos](https://atos.net/en/) as a Cybersecurity R&D Engineer.
 I have previously worked as an Embedded System Engineer at [Decentralized Security](https://decentralizedsecurity.es/) in which I was involved in cryptography projects.
 
 I have a keen interest in malware analysis, advanced persistent threats (APTs), threat intelligence and reverse engineering.
