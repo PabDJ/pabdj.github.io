@@ -19,7 +19,7 @@ tags: [practical malware analysis, malware, reversing, advanced, static, analysi
 ## Labs
 This note is being written after struggling with Lab 1 and 2. 
 Long story short, I was getting confused with **main** vs **entry point** because neither Ghidra nor IDA Free v7.0 were landing on main. In fact, they were doing it on entry point but if we mix that I am still a noob and function *main* was not labelled we can end up in a rabbit hole.
-As I am not an expert, I will leave this two YouTube videos that help me out with this issue.
+As I am not an expert, I will leave this YouTube video that help me out with this issue.
 
 {{< youtube suwZB3EA_u4 >}}
 
