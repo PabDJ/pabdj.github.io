@@ -12,8 +12,7 @@ I have a keen interest in malware analysis, advanced persistent threats (APTs), 
 
 
 ## [Blog](https://pabdj.github.io/posts/)
-With these posts I want to share the journey of a malware researcher noob. It will be a space for
-reporting the notes that I take while learning meanwhile I track the progress like in a diary.
+With these posts I want to share the journey of a malware researcher noob. It will be a space to keep the notes I take as I learn and thus keep track of progress as in a journal.
 
 
 ## Projects
