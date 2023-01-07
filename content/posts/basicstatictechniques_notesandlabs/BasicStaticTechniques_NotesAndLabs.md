@@ -4,15 +4,26 @@ date: 2022-12-08T12:50:58+05:30
 description: ""
 tags: [practical malware analysis, malware, reversing, basic, static, analysis, unpacking]
 ---
+## Table of Contents
+1. [Notes](#Notes)
+   1. [Hashing: A Fingerprint for Malware](#Hashing-A-Fingerprint-for-Malware)
+   2. [Finding Strings](#Finding-Strings)
+   3. [Packed and Obfuscated Malware](#Packed-and-Obfuscated-Malware)
+2. [Labs](#Labs)
+   1. [Lab 1](#Lab-1)
+   2. [Lab 2](#Lab-2)
+   3. [Lab 3](#Lab-3)
+   4. [Lab 4](#Lab-4)
+
 
 ## Notes
-#### Hashing: A Fingerprint for Malware
+### Hashing: A Fingerprint for Malware
 We will use **HashCalc** tool.
 
-#### Finding Strings
+### Finding Strings
 For this task we will use FLOSS (FLARE Obfuscated String Solver) tool 
 
-#### Packed and Obfuscated Malware
+### Packed and Obfuscated Malware
 - Packed and obfuscated code will often include at least the functions **_LoadLibrary_** and **_GetProcAddress_**, which are used to load and gain access to additional functions.
 - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - Several Microsoft Windows functions allow programmers to import linked functions not listed in a program's file header. Of these, the two most commonly used are **_LoadLibrary_** and **_GetProcAddress_**. **_LdrGetProcAddress_** and **_LdrLoadDll_** are also used.
