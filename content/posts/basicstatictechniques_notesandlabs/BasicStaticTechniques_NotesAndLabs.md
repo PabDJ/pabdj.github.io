@@ -5,15 +5,15 @@ description: ""
 tags: [practical malware analysis, malware, reversing, basic, static, analysis, unpacking]
 ---
 ## Table of Contents
-1. [Notes](#Notes)
-   1. [Hashing: A Fingerprint for Malware](#Hashing-A-Fingerprint-for-Malware)
-   2. [Finding Strings](#Finding-Strings)
-   3. [Packed and Obfuscated Malware](#Packed-and-Obfuscated-Malware)
-2. [Labs](#Labs)
-   1. [Lab 1](#Lab-1)
-   2. [Lab 2](#Lab-2)
-   3. [Lab 3](#Lab-3)
-   4. [Lab 4](#Lab-4)
+1. [Notes](#notes)
+   1. [Hashing: A Fingerprint for Malware](#hashing-a-fingerprint-for-malware)
+   2. [Finding Strings](#finding-strings)
+   3. [Packed and Obfuscated Malware](#packed-and-obfuscated-malware)
+2. [Labs](#labs)
+   1. [Lab 1](#lab-1)
+   2. [Lab 2](#lab-2)
+   3. [Lab 3](#lab-3)
+   4. [Lab 4](#lab-4)
 
 
 ## Notes
