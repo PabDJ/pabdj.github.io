@@ -5,6 +5,21 @@ description: ""
 tags: [practical malware analysis, malware, reversing, basic, dynamic, analysis, registers]
 ---
 
+## Table of Contents
+1. [Notes](#notes)
+   1. [Running malware](#running-malware)
+   2. [Tools](#tools)
+      1. [Procmon](#procmon)
+      2. [Process Explorer](#process-explorer)
+      3. [Regshot](#regshot)
+      4. [ApateDNS](#apatedns)
+      5. [InetSim](#inetsim)
+2. [Labs](#labs)
+   1. [Lab 1](#lab-1)
+   2. [Lab 2](#lab-2)
+   3. [Lab 3](#lab-3)
+   4. [Lab 4](#lab-4)
+
 ## Notes
 ### Running malware
 - How to launch DLLs successfully in dynamic analysis: take a look at the Exports with CFF Explorer and afterwards run the following command `C:\>rundll32.exe DLLname, Export arguments` with one of the Export functions that have appeared in the static analysis.
