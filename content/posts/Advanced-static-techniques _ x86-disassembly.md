@@ -4,6 +4,13 @@ date: 2022-12-19T09:50:58+05:30
 description: ""
 tags: [practical malware analysis, malware, reversing, advanced, static, analysis, x86, x64, assembly, registers]
 ---
+## Table of Contents
+1. [Opcodes and Endianness](#opcodes-and-endianness)
+2. [Registers](#registers)
+   1. [General registers](#general-registers)
+   2. [Simple instructions](#simple-instructions)
+   3. [The Stack](#the-stack)
+
 This blog post collects some notes that I took while reading PMA Chapter 4. As it was not the first time dealing with assembly most of the concepts rang a bell.
 
 ## Opcodes and Endianness
