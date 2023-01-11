@@ -41,9 +41,9 @@ To begin the analysis we check the imports of the file. There are some of them t
 
 Main is located at address 0x402AF0 and contains several commands such as *-in*, *-re*, *-c* and *-cc*.
 
-|            Entrypoint             |                Main                |
-|:---------------------------------:|:----------------------------------:|
-| {{< figure src="../9-1-1.PNG" >}} | !{{< figure src="../9-1-2.PNG" >}} |
+|            Entrypoint             |               Main                |
+|:---------------------------------:|:---------------------------------:|
+| {{< figure src="../9-1-1.PNG" >}} | {{< figure src="../9-1-2.PNG" >}} |
 
 Anyway, if we do not provide any, the malware calls a function located at 0x402B2E that checks some characters from argv buffer. It might be a password. After that, it tries to delete itself. 
 {{< figure src="../9-1-3.PNG" >}}
