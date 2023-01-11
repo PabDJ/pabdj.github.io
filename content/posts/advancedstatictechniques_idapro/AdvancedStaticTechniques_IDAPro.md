@@ -4,6 +4,13 @@ date: 2022-12-21T19:30:58+05:30
 description: ""
 tags: [practical malware analysis, malware, reversing, advanced, static, analysis, x86, x64, assembly, registers, ida, ghidra]
 ---
+## Table of Contents
+1. [Notes](#notes)
+   1. [The IDA Pro Interface](#the-ida-pro-interface)
+   2. [Ghidra Modifications](#ghidra-modifications)
+      1. [References](#references)
+2. [Labs](#labs)
+   1. [Lab 1](#lab-1)
 
 This chapter is about learning the powerful tool called IDA Pro. Unfortunately, this tool requires an expensive license, so I will try to apply all the content from the book  into Ghidra. 
 
