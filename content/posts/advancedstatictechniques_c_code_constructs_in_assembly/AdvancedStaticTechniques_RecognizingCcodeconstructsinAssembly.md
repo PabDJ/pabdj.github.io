@@ -4,6 +4,16 @@ date: 2022-12-24T14:15:58+05:30
 description: ""
 tags: [practical malware analysis, malware, reversing, advanced, static, analysis, x86, x64, assembly, registers, ida, ghidra]
 ---
+## Table of Contents
+1. [Notes](#notes)
+   1. [Global vs. Local Variables](#global-vs-local-variables)
+   2. [Understanding Function Call Conventions](#understanding-function-call-conventions)
+2. [Labs](#labs)
+   1. [Lab 1](#lab-1)
+   2. [Lab 2](#lab-2)
+   3. [Lab 3](#lab-3)
+   4. [Lab 4](#lab-4)
+
 ## Notes
 ### Global vs. Local Variables
 - Global variables are referenced by memory addresses, and the local variables are referenced by the stack addresses.
