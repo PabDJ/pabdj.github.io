@@ -4,6 +4,19 @@ date: 2022-12-26T14:25:58+05:30
 description: ""
 tags: [practical malware analysis, malware, reversing, advanced, static, analysis, x86, x64, assembly, registers, ida, ghidra]
 ---
+## Table of Contents
+1. [Notes](#notes)
+   1. [Windows API types](#windows-api-types)
+   2. [Windows Registry](#windows-registry)
+      1. [Registry Root Keys](#registry-root-keys)
+   3. [Networking APIs](#networking-apis)
+   4. [Following running malware](#following-running-malware)
+   5. [Kernel vs. User Mode](#kernel-vs-user-mode)
+   6. [The Native API](#the-native-api)
+2. [Labs](#labs)
+   1. [Lab 1](#lab-1)
+   2. [Lab 2](#lab-2)
+   3. [Lab 3](#lab-3)
 
 ## Notes
 - DWORD and WORD types represent 32-bit and 16-bit unsigned integers. Windows does not use int, short or unsigned.
