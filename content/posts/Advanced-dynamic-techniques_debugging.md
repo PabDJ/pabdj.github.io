@@ -4,6 +4,14 @@ date: 2022-12-27T12:25:58+05:30
 description: ""
 tags: [practical malware analysis, malware, reversing, advanced, dynamic, analysis, x86, x64, assembly, registers, ollydbg, windbg, breakpoints, kernel]
 ---
+## Table of Contents
+1. [Kernel vs. User-Mode Debugging](#kernel-vs-user-mode-debugging)
+2. [Breakpoints](#breakpoints)
+   1. [Software breakpoints](#software-breakpoints)
+   2. [Hardware breakpoints](#hardware-breakpoints)
+3. [Exceptions](#exceptions)
+   1. [First- and Second-Chance Exceptions](#first--and-second-chance-exceptions)
+
 
 ## Notes
 
