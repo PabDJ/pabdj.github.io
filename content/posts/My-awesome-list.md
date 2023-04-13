@@ -33,6 +33,7 @@ Last edit: Jan 26, 2023
 - [So You Want To Be A Malware Analyst](https://www.malwarebytes.com/blog/news/2012/09/so-you-want-to-be-a-malware-analyst)
 - [Practical Malware Analysis Course](https://samsclass.info/126/126_S17.shtml)
 - [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
+- [Resources For Learning Malware Analysis](https://agdcservices.com/blog/resources-for-learning-malware-analysis/)
 - [New Obfuscation Techniques in Emotet Maldocs](https://security-soup.net/new-obfuscation-techniques-in-emotet-maldocs/)
 - [Emotet Technical Analysis - Part 1 Reveal the Evil Code](https://www.picussecurity.com/resource/blog/emotet-technical-analysis-part-1-reveal-the-evil-code)
 - [How to train your Ghidra](https://securelist.com/how-to-train-your-ghidra/108272/)
@@ -45,6 +46,7 @@ Last edit: Jan 26, 2023
 - [Setting up Cuckoo Sandbox Step-by-Step Guide](https://medium.com/@oshara.16/setting-up-cuckoo-sandbox-for-dummies-malware-analysis-3daa99e950b5)
 - [Malicious Packer pkr_ce1a](https://malwarology.substack.com/p/malicious-packer-pkr_ce1a?r=1lslzd)
 - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
+- [Didier Stevens' Blog](https://blog.didierstevens.com/)
 - [List of blogs for you to include in your RSS feed](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
 
 ## Tweets
@@ -80,6 +82,7 @@ Last edit: Jan 26, 2023
 - [Shortcuts for Understanding Malicious Scripts](https://www.youtube.com/watch?v=XxjeRuwRyOw)
 - [Finding and Decoding Malicious Powershell Scripts - SANS DFIR Summit 2018](https://www.youtube.com/watch?v=JWC7fzhvAY8)
 - [MalwareAnalysisForHedgehogs](https://www.youtube.com/@MalwareAnalysisForHedgehogs)
+- [Didier Stevens' YouTube channel](https://www.youtube.com/@dist67)
 - [Introduction to Reverse Engineering](https://www.youtube.com/playlist?list=PLHJns8WZXCdvaD7-xR7e5FJNW_6H9w-wC)
 - [Hack the Reader: Writing Effective Threat Reports](https://www.youtube.com/watch?v=vwKlNZ6mxak)
 - [Top 10 Writing Mistakes in Cybersecurity and How You Can Avoid Them](https://www.youtube.com/watch?v=V7lO7UgxQV4)
