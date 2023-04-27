@@ -2,7 +2,7 @@
 I am Pablo de Juan and I consider myself a passionate person who likes being involved in bleeding-edge technology.
 
 I am currently working at [Atos](https://atos.net/en/) as a Cybersecurity R&D Engineer.
-I have previously worked as an Embedded System Engineer at [Decentralized Security](https://decentralizedsecurity.es/) in which I was involved in cryptography projects.
+I have previously worked as a Cryptography Engineer at [Decentralized Security](https://decentralizedsecurity.es/).
 
 I have a keen interest in malware analysis, advanced persistent threats (APTs), threat intelligence and reverse engineering.
 
@@ -18,4 +18,4 @@ With these posts I want to share the journey of a malware researcher noob. It wi
 ## Projects
 - [Generation and Classification of Illicit Bitcoin Transactions](https://doi.org/10.1007/978-3-031-21333-5_108) - Published conference paper
 at [UCAmI 2022](https://www.ucami.org/). [[PDF](/pub/GenerationAndClassificationOfIllicitBitcoinTransactions.pdf)]
-- [Hardware Security Module (HSM) BLS Signer](https://github.com/decentralizedsecurity/bls-hsm) - Funded by Eth2 Staking Community Grants from Ethereum Foundation
+- [Hardware Security Module (HSM) BLS Signer](https://github.com/decentralizedsecurity/bls-hsm) - Funded by [Eth2 Staking Community Grants](https://blog.ethereum.org/2021/02/09/esp-staking-community-grantee-announcement) from Ethereum Foundation
