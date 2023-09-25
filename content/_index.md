@@ -7,8 +7,9 @@ I have previously worked as a Cryptography Engineer at [Decentralized Security](
 I have a keen interest in malware analysis, advanced persistent threats (APTs), threat intelligence and reverse engineering.
 
 ## Education
-- [Master in Cybersecurity at UC3M](https://www.uc3m.es/master/cybersecurity) (2021-2022)
-- [Bachelor in Telematics Engineering at UMA](https://www.uma.es/grado-en-ingenieria-telematica/) (2017-2021)
+- [Postgraduate Degree in Reverse Engineering and Malware Intelligence](https://www.nics.uma.es/Titulo-Experto-Malware) (2023-2023)
+- [Master's Degree in Cybersecurity at UC3M](https://www.uc3m.es/master/cybersecurity) (2021-2022)
+- [Bachelor's Degree in Telematics Engineering at UMA](https://www.uma.es/grado-en-ingenieria-telematica/) (2017-2021)
 
 
 ## [Blog](https://pabdj.github.io/posts/)
